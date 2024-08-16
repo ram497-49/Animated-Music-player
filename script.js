@@ -24,13 +24,13 @@ const songs = [
     title: "Vaathi coming",
     name: "Master",
     source:
-      "Song3 vaathi.mp3",
+      "song3 vaathi.mp3",
   },
   {
     title: "Selfie pulla",
     name: "Kaththi",
     source:
-      "Song 4 selfie.mp3",
+      "song 4 selfie.mp3",
   },
   {
     title: "Aathi",
@@ -49,7 +49,7 @@ const songs = [
     title: "Spark",
     name: "The Greatest Of All Time",
     source:
-      "Song 7 spark.mp3",
+      "song 7 spark.mp3",
   },
 ];
 
